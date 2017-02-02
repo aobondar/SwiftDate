@@ -10,24 +10,24 @@
 "colloquial_p_mm"					=	"%d months ago";	// month,past,plural:		"3 months ago"
 
 "colloquial_f_w"					=	"next week";		// week,future,singular:	"next week"
-"colloquial_f_ww"					=	"in %d weeks";		// week,future,plural:		"in 3 weeks"
+"colloquial_f_ww"					=	"in %dw";		// week,future,plural:		"in 3 weeks"
 "colloquial_p_w"					=	"past week";		// week,past,singular:		"past week"
-"colloquial_p_ww"					=	"%d weeks ago";		// week,past,plural:		"in 3 weeks"
+"colloquial_p_ww"					=	"%dw ago";		// week,past,plural:		"in 3 weeks"
 
 "colloquial_f_d"					=	"tomorrow";			// day,future,singular:		"tomorrow"
-"colloquial_f_dd"					=	"in %d days";		// day,future,plural:		"in 3 days"
+"colloquial_f_dd"					=	"in %dd";		// day,future,plural:		"in 3 days"
 "colloquial_p_d"					=	"yesterday";		// day,past,singular:		"yesterday"
-"colloquial_p_dd"					=	"%d days ago";		// day,past,plural:			"3 days ago"
+"colloquial_p_dd"					=	"%dd ago";		// day,past,plural:			"3 days ago"
 
-"colloquial_f_h"					=	"in one hour";		// hour,future,singular:	"in one hour"
-"colloquial_f_hh"					=	"in %d hours";		// hour,future,plural:		"in 3 hours"
-"colloquial_p_h"					=	"one hour ago";		// hour,past,singular:		"one hour ago"
-"colloquial_p_hh"					=	"%d hours ago";		// hour,past,plural:		"3 hours ago"
+"colloquial_f_h"					=	"in 1h";		// hour,future,singular:	"in one hour"
+"colloquial_f_hh"					=	"in %dh";		// hour,future,plural:		"in 3 hours"
+"colloquial_p_h"					=	"1h ago";		// hour,past,singular:		"one hour ago"
+"colloquial_p_hh"					=	"%dh ago";		// hour,past,plural:		"3 hours ago"
 
-"colloquial_f_M"					=	"in one minute";	// minute,future,singular:	"in one minute"
-"colloquial_f_MM"					=	"in %d minutes";	// minute,future,plural:	"in 3 minutes"
-"colloquial_p_M"					=	"one minute ago";	// minute,past,singular:	"one minute ago"
-"colloquial_p_MM"					=	"%d minutes ago";	// minute,past,plural:		"3 minutes ago"
+"colloquial_f_M"					=	"in 1m";	// minute,future,singular:	"in one minute"
+"colloquial_f_MM"					=	"in %dm";	// minute,future,plural:	"in 3 minutes"
+"colloquial_p_M"					=	"1m ago";	// minute,past,singular:	"one minute ago"
+"colloquial_p_MM"					=	"1m ago";	// minute,past,plural:		"3 minutes ago"
 
 "colloquial_now"					=	"just now";			// less than 5 minutes if .allowsNowOnColloquial is set
 
